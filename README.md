@@ -1,6 +1,6 @@
 # Federated Learning Projects Repository
 
-![FL](https://miro.medium.com/v2/resize:fit:1400/0*mT-ml9Cuw0W4jIe)
+![FL](https://miro.medium.com/v2/resize:fit:1400/0*mT-ml9Cuw0W4jIe_)
 
 Welcome to the Federated Learning Projects Repository! This repository hosts a collection of projects focused on developing, implementing, and experimenting with federated learning techniques. Federated learning is a decentralized approach to machine learning where multiple clients (devices or organizations) collaboratively train a model without sharing their local data. This repository aims to provide resources, code samples, and research to facilitate advancements in federated learning.
 
