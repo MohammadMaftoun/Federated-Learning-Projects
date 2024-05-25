@@ -57,7 +57,7 @@ To get started with federated learning use this repository:
 
     sh
 
-git clone https://github.com/yourusername/federated-learning-projects.git
+git clone https://github.com/MohammadMaftoun/Federated-Learning-Projects.git
 cd federated-learning-projects
 
 Install Dependencies
