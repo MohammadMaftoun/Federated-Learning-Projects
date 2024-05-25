@@ -2,7 +2,7 @@
 
 ![FL](https://miro.medium.com/v2/resize:fit:1400/0*mT-ml9Cuw0W4jIe_)
 
-Welcome to the Federated Learning Projects Repository! This repository hosts a collection of projects focused on developing, implementing, and experimenting with federated learning techniques. Federated learning is a decentralized approach to machine learning where multiple clients (devices or organizations) collaboratively train a model without sharing their local data. This repository aims to provide resources, code samples, and research to facilitate advancements in federated learning.
+Welcome to the Federated Learning Projects Repository! This repository hosts a collection of projects concentrated on developing, implementing, and experimenting with federated learning approaches. Federated learning is a decentralized technique of machine learning where multiple clients (devices or organizations) collaboratively train a model without sharing their local data. This repository aims to provide resources, code samples, and research to facilitate advancements in federated learning.
 
 # Contents
 
@@ -60,7 +60,7 @@ To get started with federated learning use this repository:
 git clone https://github.com/MohammadMaftoun/Federated-Learning-Projects.git
 cd federated-learning-projects
 
-Install Dependencies
+# Install Dependencies
 Ensure you have the necessary dependencies installed. You can find the required packages in the requirements.txt file.
 
 sh
