@@ -75,7 +75,7 @@ sh
 
 # Contributions
 
-We welcome contributions from the community! If you have ideas, bug fixes, improvements, or new projects related to federated learning, please submit a pull request. Ensure you follow the contribution guidelines outlined in the CONTRIBUTING.md file.
+We welcome contributions from the community! If you have ideas, bug fixes, improvements, or new projects related to federated learning, please submit a pull request. Ensure you follow the contribution guidelines digested in the CONTRIBUTING.md file.
 
 # Acknowledgments
 
